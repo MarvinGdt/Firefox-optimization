@@ -138,3 +138,12 @@ mettez les lignes suivante (au choix) dans votre fichier userChromme.css
  margin-bottom:-14px!important;
  overflow-x:scroll;
 }
+
+                                              # EXTENTIONS UBLOCK
+                                            
+# Dans ublock origin cochez : (si vous n'aimez pas, encore une fois, décochez)
+
+Désactivez le filtrage esthétique 
+Bloquer les polices d'écritures disantes
+
+# Installez également H264IFY pour Youtube afin que les PCs un peu vieux puissent utiliser l'accélération matérielle du format H264.
